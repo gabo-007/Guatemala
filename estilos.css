@@ -1,0 +1,103 @@
+.Fondo{
+    background-image: url(fondoo.jpg);
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: 1500px;
+}
+.capital{
+    color: deepskyblue;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-decoration: underline;
+    }
+.tradiciones{
+    text-align: center;
+    color: red;
+  padding: 3px 10px;
+  border: red 5px dashed;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+    text-transform: none ;
+}
+.info{
+  align-items: stretch;
+    display:inline-grid;
+  height: 250px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.uno{
+    background-color: cornflowerblue;
+}
+.dos{
+    background-color: white;
+}
+.tres{
+    background-color: white;
+}
+.cuatro{
+    background-color: cornflowerblue;
+}
+
+.Comida{
+    background-color: firebrick;
+    color: white;
+}
+.cajas{
+  align-items: baseline;
+    display: inline-block;
+  height: 250px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.n{
+    background-color: burlywood;
+}
+.d{
+    background-color: cadetblue;
+}
+.t{
+    background-color: coral;
+}
+.c{
+    background-color: crimson;
+}
+.co{
+    background-color: cornflowerblue;
+}
+.sis{
+    background-color: orange;
+}
+.extension{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px;
+    letter-spacing: 8px;
+    word-spacing: 15px;
+    text-decoration: underline;
+}
+.bandera{
+    text-align: center;
+    color: dodgerblue;
+}
+.one{
+    background-color: deepskyblue;
+}
+.two{
+    background-color: orange;
+}
+.three{
+    background-color: deepskyblue;
+}
+.four{
+    background-color: orange
+}
+.five{
+    background-color: deepskyblue
+}
